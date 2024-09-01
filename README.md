@@ -1,6 +1,12 @@
-# 🎈 Blank app template
+# 🎈 APP FOR LEAVE COMMENTS IN RESTAURANT ( ONLY FOR YOURS )
 
-A simple Streamlit app template for you to modify!
+A simple web app for take note about dishes in restaurant,
+
+It allow you to rate a restaurant and his food. 
+
+Only ir four you, each user only view his owns reviews. 
+
+Its like a food memory in WEB.
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
 
